@@ -24,7 +24,7 @@ Here is an image of the user submitting the transaction successfully.
 ![alt text](https://github.com/smruthid/BlockchainWallets/blob/main/Images/TransactionSuccess.png)
 
 Here is an image of the test wallet on Ganache. As can be seen, the first address in this wallet matches the address displayed on the Streamlit application.
-![alt text](https://github.com/smruthid/Blockchain/blob/main/Screenshots/ValidateBlockchain.png)
+![alt text](https://github.com/smruthid/BlockchainWallets/blob/main/Images/AccountDetails.png)
 
 Here is an image of the transaction history on Ganache.
 ![alt text](https://github.com/smruthid/BlockchainWallets/blob/main/Images/History.png)
